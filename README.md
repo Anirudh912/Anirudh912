@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudh912
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anirudhlreddy2003@gmail.com
 
